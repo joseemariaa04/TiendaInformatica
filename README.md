@@ -45,8 +45,8 @@ El proyecto está enfocado en aplicar **Programación Orientada a Objetos**, man
 *(Añade aquí imágenes de la aplicación)*
 
 ```md
-![Pantalla principal](img/main.png)
-![Clientes](img/clientes.png)
-![Productos](img/productos.png)
-![Pedidos](img/pedidos.png)
-![Detalle Pedido](img/detallePedido.png)
+![Pantalla principal](/img/inicio.png)
+![Clientes](/img/clientes.png)
+![Productos](/img/productos.png)
+![Pedidos](/img/pedidos.png)
+![Detalle Pedido](/img/detallePedido.png)
